@@ -1,5 +1,3 @@
-# nginx-devops-kubernetes-project
-End-to-end DevOps project using Docker, Kubernetes, and NGINX
 # NGINX Deployment on Kubernetes (Minikube)
 
 This project demonstrates deploying an NGINX application on a local Kubernetes cluster using Minikube.
